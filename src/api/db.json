@@ -1,0 +1,49 @@
+{
+  "Guerreros": [
+    {
+      "id": 1,
+      "name": "Son Goku",
+      "raza": "Saiyajin"
+    },
+    {
+      "id": 2,
+      "name": "Son Gohan",
+      "raza": "Hibrido Saiyajin/Humano"
+    },
+    {
+      "id": 3,
+      "name": "Piccolo",
+      "raza": "Namekuseijin"
+    },
+    {
+      "id": 4,
+      "name": "Majin Buu",
+      "raza": "Majin"
+    },
+    {
+      "id": 5,
+      "name": "Freezer",
+      "raza": "Freezer"
+    },
+    {
+      "id": 6,
+      "name": "Goten",
+      "raza": "Hibrido Saiyajin/Humano"
+    },
+    {
+      "id": 7,
+      "name": "Trunks",
+      "raza": "Hibrido Saiyajin/Humano"
+    },
+    {
+      "id": 8,
+      "name": "Krillin",
+      "raza": "Humano"
+    },
+    {
+      "id": 9,
+      "name": "Maestro Royi",
+      "raza": "Humano"
+    }
+  ]
+}
